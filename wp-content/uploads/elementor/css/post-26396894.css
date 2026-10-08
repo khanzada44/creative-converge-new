@@ -1,0 +1,34 @@
+.elementor-2639 .elementor-element.elementor-element-4ec3f17 > .elementor-container{min-height:350px;}.elementor-2639 .elementor-element.elementor-element-4ec3f17:not(.elementor-motion-effects-element-type-background), .elementor-2639 .elementor-element.elementor-element-4ec3f17 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:transparent;background-image:linear-gradient(110deg, #111319 30%, #393F54 100%);}.elementor-2639 .elementor-element.elementor-element-4ec3f17{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-2639 .elementor-element.elementor-element-4ec3f17 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-2639 .elementor-element.elementor-element-444bf26{text-align:center;}.elementor-2639 .elementor-element.elementor-element-444bf26 .elementor-heading-title{color:#FFFFFF;font-family:"Poppins", Sans-serif;font-size:55px;font-weight:700;}.elementor-2639 .elementor-element.elementor-element-6d8d0e2:not(.elementor-motion-effects-element-type-background), .elementor-2639 .elementor-element.elementor-element-6d8d0e2 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#111319;background-image:url("../../2024/07/bg-object.png");background-position:top right;background-repeat:no-repeat;background-size:30% auto;}.elementor-2639 .elementor-element.elementor-element-6d8d0e2{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:60px 0px 50px 0px;z-index:2;}.elementor-2639 .elementor-element.elementor-element-6d8d0e2 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-2639 .elementor-element.elementor-element-1531223{z-index:2;}.elementor-2639 .elementor-element.elementor-element-f7c3d16{color:#A9AFC3;font-family:"Poppins", Sans-serif;font-size:18px;font-weight:400;}.elementor-2639 .elementor-element.elementor-element-65d5a71 img{width:100%;max-width:100%;}body:not(.rtl) .elementor-2639 .elementor-element.elementor-element-65d5a71{left:0px;}body.rtl .elementor-2639 .elementor-element.elementor-element-65d5a71{right:0px;}.elementor-2639 .elementor-element.elementor-element-65d5a71{bottom:-5%;z-index:0;}body:not(.rtl) .elementor-2639 .elementor-element.elementor-element-d73a6bc{left:0px;}body.rtl .elementor-2639 .elementor-element.elementor-element-d73a6bc{right:0px;}.elementor-2639 .elementor-element.elementor-element-d73a6bc{bottom:-9%;}.elementor-2639 .elementor-element.elementor-element-e4789c4{--spacer-size:50px;}@media(max-width:1024px){.elementor-2639 .elementor-element.elementor-element-4ec3f17 > .elementor-container{min-height:250px;}.elementor-2639 .elementor-element.elementor-element-444bf26 .elementor-heading-title{font-size:35px;}.elementor-2639 .elementor-element.elementor-element-f7c3d16{font-size:16px;}.elementor-2639 .elementor-element.elementor-element-d73a6bc{bottom:-20%;}}@media(max-width:767px){.elementor-2639 .elementor-element.elementor-element-4ec3f17 > .elementor-container{min-height:200px;}.elementor-2639 .elementor-element.elementor-element-4ec3f17{padding:80px 0px 0px 0px;}.elementor-2639 .elementor-element.elementor-element-444bf26 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-2639 .elementor-element.elementor-element-f7c3d16{font-size:14px;}}/* Start custom CSS for section, class: .elementor-element-6d8d0e2 */.servrow .swiper-slide {
+    background-image: linear-gradient(45deg, black, transparent);
+}
+.servrow .elementor-swiper-button.elementor-swiper-button-next {
+    top: -16% !important;
+}
+
+
+
+
+.servrow  .elementor-swiper-button.elementor-swiper-button-prev {
+    top: -16% !important;
+    right: 5%;
+    left: unset;
+}
+/*.servrow {*/
+/*    position: relative;*/
+/*}*/
+
+/*.servrow:before {*/
+/*    position: absolute;*/
+/*    content: "WEBS DESIGN";*/
+/*    bottom: 50px;*/
+/*    left: 0 !important;*/
+/*    right: 0 !IMPORTANT;*/
+/*    margin: auto;*/
+/*    display: table;*/
+/*    font-size: 90px;*/
+/*    -webkit-text-stroke: 11px;*/
+/*    letter-spacing: 40px;*/
+/*    -webkit-text-fill-color: transparent;*/
+/*    font=fam: ;*/
+/*    font-weight: 900;*/
+/*}*//* End custom CSS */

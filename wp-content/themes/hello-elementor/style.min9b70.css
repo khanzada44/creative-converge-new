@@ -289,7 +289,8 @@ select {
 [type=submit],
 button {
     width: auto;
-    -webkit-appearance: button
+    -webkit-appearance: button;
+    appearance: button
 }
 
 [type=button],
@@ -369,6 +370,7 @@ textarea {
 
 [type=search] {
     -webkit-appearance: textfield;
+    appearance: textfield;
     outline-offset: -2px
 }
 

@@ -191,8 +191,8 @@ body.rtl .elementor-630 .elementor-element.elementor-element-8474fe0 {
     font-weight: 400;
     text-transform: uppercase;
     text-decoration: underline;
-    fill: #F08C3C;
-    color: #F08C3C;
+    fill: #2e8b57;
+    color: #2e8b57;
     background-color: #61CE7000;
 }
 
@@ -229,7 +229,7 @@ body.rtl .elementor-630 .elementor-element.elementor-element-f086ef7 {
 
 .elementor-630 .elementor-element.elementor-element-84c9d06:not(.elementor-motion-effects-element-type-background),
 .elementor-630 .elementor-element.elementor-element-84c9d06>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-color: white;
+    background-color: #2e8b57;
     background-image: url("../../2024/07/bg-object.png");
     background-position: top right;
     background-repeat: no-repeat;
@@ -242,7 +242,7 @@ body.rtl .elementor-630 .elementor-element.elementor-element-f086ef7 {
 
 .elementor-630 .elementor-element.elementor-element-8145da7 {
     --divider-border-style: solid;
-    --divider-color: black;
+    --divider-color: white;
     --divider-border-width: 3.9px;
     width: var(--container-widget-width, 13%);
     max-width: 13%;
@@ -260,7 +260,7 @@ body.rtl .elementor-630 .elementor-element.elementor-element-f086ef7 {
 }
 
 .elementor-630 .elementor-element.elementor-element-5479986 .elementor-heading-title {
-    color: #000000;
+    color: white;
     font-family: "Poppins", Sans-serif;
     font-size: 16px;
     font-weight: 400;
@@ -272,14 +272,14 @@ body.rtl .elementor-630 .elementor-element.elementor-element-f086ef7 {
 }
 
 .elementor-630 .elementor-element.elementor-element-a99e750 .elementor-heading-title {
-    color: #000000;
+    color: white;
     font-family: "Poppins", Sans-serif;
     font-size: 55px;
     font-weight: 700;
 }
 
 .elementor-630 .elementor-element.elementor-element-b2f030a {
-    color: #000000;
+    color: white;
     font-family: "Poppins", Sans-serif;
     font-size: 18px;
     font-weight: 400;
@@ -490,13 +490,13 @@ body .elementor-630 .elementor-element.elementor-element-32015f4 .elementor-labe
 .elementor-630 .elementor-element.elementor-element-32015f4 .e-form__buttons__wrapper__button-next {
     background-color: #61CE7000;
     color: #ffffff;
-    border-color: #F08C3C;
+    border-color: #2e8b57;
 }
 
 .elementor-630 .elementor-element.elementor-element-32015f4 .elementor-button[type="submit"] {
     background-color: #61CE7000;
     color: #ffffff;
-    border-color: #F08C3C;
+    border-color: #2e8b57;
 }
 
 .elementor-630 .elementor-element.elementor-element-32015f4 .elementor-button[type="submit"] svg * {
@@ -505,7 +505,7 @@ body .elementor-630 .elementor-element.elementor-element-32015f4 .elementor-labe
 
 .elementor-630 .elementor-element.elementor-element-32015f4 .e-form__buttons__wrapper__button-previous {
     color: #ffffff;
-    border-color: #F08C3C;
+    border-color: #2e8b57;
 }
 
 .elementor-630 .elementor-element.elementor-element-32015f4 .e-form__buttons__wrapper__button-next:hover {
@@ -576,8 +576,8 @@ body .elementor-630 .elementor-element.elementor-element-32015f4 .elementor-labe
 
 .elementor-630 .elementor-element.elementor-element-d4527dc:not(.elementor-motion-effects-element-type-background),
 .elementor-630 .elementor-element.elementor-element-d4527dc>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-color: white;
-    /* background-color: #111319; */
+    /* background-color: white; */
+    background-color: #2e8b57;
     background-image: url("../../2024/07/Illustration-Art.png");
     background-position: 50% 42%;
     background-repeat: no-repeat;
@@ -613,7 +613,7 @@ body .elementor-630 .elementor-element.elementor-element-32015f4 .elementor-labe
 }
 
 .elementor-630 .elementor-element.elementor-element-e73a0fc .elementor-heading-title {
-    color: black;
+    color: white;
     font-family: "Poppins", Sans-serif;
     font-size: 16px;
     font-weight: 400;
@@ -625,14 +625,14 @@ body .elementor-630 .elementor-element.elementor-element-32015f4 .elementor-labe
 }
 
 .elementor-630 .elementor-element.elementor-element-90da471 .elementor-heading-title {
-    color: black;
+    color: white;
     font-family: "Poppins", Sans-serif;
     font-size: 55px;
     font-weight: 700;
 }
 
 .elementor-630 .elementor-element.elementor-element-2cd62f1 {
-    color: black;
+    color: white;
     font-family: "Poppins", Sans-serif;
     font-size: 16px;
     font-weight: 400;
@@ -643,7 +643,7 @@ body .elementor-630 .elementor-element.elementor-element-32015f4 .elementor-labe
 }
 
 .elementor-630 .elementor-element.elementor-element-c2da194 {
-    color: black;
+    color: white;
     font-family: "Poppins", Sans-serif;
     font-size: 16px;
     font-weight: 400;
@@ -658,7 +658,7 @@ body .elementor-630 .elementor-element.elementor-element-32015f4 .elementor-labe
 }
 
 .elementor-630 .elementor-element.elementor-element-dd9bbf6 .elementor-counter-number-wrapper {
-    color: black;
+    color: white;
     font-family: "Mulish", Sans-serif;
     font-size: 80px;
     font-weight: 400;
@@ -680,7 +680,7 @@ body .elementor-630 .elementor-element.elementor-element-32015f4 .elementor-labe
 }
 
 .elementor-630 .elementor-element.elementor-element-dd7d3e8 .elementor-counter-number-wrapper {
-    color: black;
+    color: white;
     font-family: "Mulish", Sans-serif;
     font-size: 80px;
     font-weight: 400;
@@ -698,14 +698,14 @@ body .elementor-630 .elementor-element.elementor-element-32015f4 .elementor-labe
 }
 
 .elementor-630 .elementor-element.elementor-element-0a27cd7 .elementor-heading-title {
-    color: black;
+    color: white;
     font-family: "Poppins", Sans-serif;
     font-size: 28px;
     font-weight: 500;
 }
 
 .elementor-630 .elementor-element.elementor-element-54953b4 {
-    color: black;
+    color: white;
     font-family: "Poppins", Sans-serif;
     font-size: 16px;
     font-weight: 400;
@@ -716,7 +716,7 @@ body .elementor-630 .elementor-element.elementor-element-32015f4 .elementor-labe
 }
 
 .elementor-630 .elementor-element.elementor-element-6fe6d26 {
-    color: black;
+    color: white;
     font-family: "Poppins", Sans-serif;
     font-size: 16px;
     font-weight: 400;
@@ -736,14 +736,14 @@ body .elementor-630 .elementor-element.elementor-element-32015f4 .elementor-labe
 }
 
 .elementor-630 .elementor-element.elementor-element-cb18abf .elementor-heading-title {
-    color: black;
+    color: white;
     font-family: "Poppins", Sans-serif;
     font-size: 28px;
     font-weight: 500;
 }
 
 .elementor-630 .elementor-element.elementor-element-edf050d {
-    color: black;
+    color: white;
     font-family: "Poppins", Sans-serif;
     font-size: 16px;
     font-weight: 400;
@@ -754,7 +754,7 @@ body .elementor-630 .elementor-element.elementor-element-32015f4 .elementor-labe
 }
 
 .elementor-630 .elementor-element.elementor-element-d989cff {
-    color: black;
+    color: white;
     font-family: "Poppins", Sans-serif;
     font-size: 16px;
     font-weight: 400;
@@ -769,7 +769,7 @@ body .elementor-630 .elementor-element.elementor-element-32015f4 .elementor-labe
 }
 
 .elementor-630 .elementor-element.elementor-element-7d587dc .elementor-counter-number-wrapper {
-    color: black;
+    color: white;
     font-family: "Mulish", Sans-serif;
     font-size: 80px;
     font-weight: 400;
@@ -869,8 +869,7 @@ body .elementor-630 .elementor-element.elementor-element-32015f4 .elementor-labe
 
 .elementor-630 .elementor-element.elementor-element-c43827a:not(.elementor-motion-effects-element-type-background),
 .elementor-630 .elementor-element.elementor-element-c43827a>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    /* background-color: #111319; */
-    background-color: white;
+    background-color: #2e8b57;
     background-image: url("../../2024/07/choose.png");
     background-position: top left;
     background-repeat: no-repeat;
@@ -910,8 +909,7 @@ body .elementor-630 .elementor-element.elementor-element-32015f4 .elementor-labe
 
 .elementor-630 .elementor-element.elementor-element-be5add5 .elementor-counter-number-wrapper {
     gap: 6px;
-    /* color: #FFFFFF; */
-    color: black;
+    color: #FFFFFF;
     font-family: "Mulish", Sans-serif;
     font-size: 45px;
     font-weight: 400;
@@ -944,7 +942,7 @@ body .elementor-630 .elementor-element.elementor-element-32015f4 .elementor-labe
 
 .elementor-630 .elementor-element.elementor-element-e5c5b13 .elementor-counter-number-wrapper {
     gap: 6px;
-    color: black;
+    color: white;
     font-family: "Mulish", Sans-serif;
     font-size: 45px;
     font-weight: 400;
@@ -978,7 +976,7 @@ body .elementor-630 .elementor-element.elementor-element-32015f4 .elementor-labe
 
 .elementor-630 .elementor-element.elementor-element-2341faf .elementor-counter-number-wrapper {
     gap: 6px;
-    color: black;
+    color: white;
     font-family: "Mulish", Sans-serif;
     font-size: 45px;
     font-weight: 400;
@@ -1011,7 +1009,7 @@ body .elementor-630 .elementor-element.elementor-element-32015f4 .elementor-labe
 
 .elementor-630 .elementor-element.elementor-element-ad7e272 .elementor-counter-number-wrapper {
     gap: 6px;
-    color: black;
+    color: white;
     font-family: "Mulish", Sans-serif;
     font-size: 45px;
     font-weight: 400;
@@ -1023,7 +1021,7 @@ body .elementor-630 .elementor-element.elementor-element-32015f4 .elementor-labe
 
 .elementor-630 .elementor-element.elementor-element-47532d8 {
     --divider-border-style: solid;
-    --divider-color: black;
+    --divider-color: white;
     --divider-border-width: 3.9px;
     width: var(--container-widget-width, 13%);
     max-width: 13%;
@@ -1041,7 +1039,7 @@ body .elementor-630 .elementor-element.elementor-element-32015f4 .elementor-labe
 }
 
 .elementor-630 .elementor-element.elementor-element-54c4cec .elementor-heading-title {
-    color: black;
+    color: white;
     font-family: "Poppins", Sans-serif;
     font-size: 16px;
     font-weight: 400;
@@ -1053,14 +1051,14 @@ body .elementor-630 .elementor-element.elementor-element-32015f4 .elementor-labe
 }
 
 .elementor-630 .elementor-element.elementor-element-fa5653f .elementor-heading-title {
-    color: black;
+    color: white;
     font-family: "Poppins", Sans-serif;
     font-size: 55px;
     font-weight: 700;
 }
 
 .elementor-630 .elementor-element.elementor-element-15879ef {
-    color: black;
+    color: white;
     font-family: "Poppins", Sans-serif;
     font-size: 16px;
     font-weight: 400;
@@ -1072,18 +1070,18 @@ body .elementor-630 .elementor-element.elementor-element-32015f4 .elementor-labe
 
 .elementor-630 .elementor-element.elementor-element-7730c6a .elementor-icon-box-title {
     margin-bottom: 13px;
-    color: black;
+    color: white;
 }
 
 .elementor-630 .elementor-element.elementor-element-7730c6a.elementor-view-stacked .elementor-icon {
-    background-color: #F08C3C;
+    background-color: #2e8b57;
 }
 
 .elementor-630 .elementor-element.elementor-element-7730c6a.elementor-view-framed .elementor-icon,
 .elementor-630 .elementor-element.elementor-element-7730c6a.elementor-view-default .elementor-icon {
-    fill: #F08C3C;
-    color: #F08C3C;
-    border-color: #F08C3C;
+    fill: #2e8b57;
+    color: #2e8b57;
+    border-color: #2e8b57;
 }
 
 .elementor-630 .elementor-element.elementor-element-7730c6a .elementor-icon {
@@ -1098,7 +1096,7 @@ body .elementor-630 .elementor-element.elementor-element-32015f4 .elementor-labe
 }
 
 .elementor-630 .elementor-element.elementor-element-7730c6a .elementor-icon-box-description {
-    color: black;
+    color: white;
     font-family: "Mulish", Sans-serif;
     font-size: 15px;
     font-weight: 400;
@@ -1110,18 +1108,18 @@ body .elementor-630 .elementor-element.elementor-element-32015f4 .elementor-labe
 
 .elementor-630 .elementor-element.elementor-element-14c269e .elementor-icon-box-title {
     margin-bottom: 13px;
-    color: black;
+    color: white;
 }
 
 .elementor-630 .elementor-element.elementor-element-14c269e.elementor-view-stacked .elementor-icon {
-    background-color: #F08C3C;
+    background-color: #2e8b57;
 }
 
 .elementor-630 .elementor-element.elementor-element-14c269e.elementor-view-framed .elementor-icon,
 .elementor-630 .elementor-element.elementor-element-14c269e.elementor-view-default .elementor-icon {
-    fill: #F08C3C;
-    color: #F08C3C;
-    border-color: #F08C3C;
+    fill: #2e8b57;
+    color: #2e8b57;
+    border-color: #2e8b57;
 }
 
 .elementor-630 .elementor-element.elementor-element-14c269e .elementor-icon {
@@ -1136,16 +1134,16 @@ body .elementor-630 .elementor-element.elementor-element-32015f4 .elementor-labe
 }
 
 .elementor-630 .elementor-element.elementor-element-14c269e .elementor-icon-box-description {
-    color: black;
+    color: white;
     font-family: "Mulish", Sans-serif;
     font-size: 15px;
     font-weight: 400;
 }
 
-.elementor-630 .elementor-element.elementor-element-1f7d51e:not(.elementor-motion-effects-element-type-background),
+/* .elementor-630 .elementor-element.elementor-element-1f7d51e:not(.elementor-motion-effects-element-type-background),
 .elementor-630 .elementor-element.elementor-element-1f7d51e>.elementor-motion-effects-container>.elementor-motion-effects-layer {
     background-color: #191C26;
-}
+} */
 
 .elementor-630 .elementor-element.elementor-element-1f7d51e {
     transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
@@ -1245,8 +1243,8 @@ body.rtl .elementor-630 .elementor-element.elementor-element-ced4aea {
     font-weight: 400;
     text-transform: uppercase;
     text-decoration: underline;
-    fill: #F08C3C;
-    color: #F08C3C;
+    fill: #2e8b57;
+    color: #2e8b57;
     background-color: #61CE7000;
 }
 
@@ -1526,9 +1524,9 @@ body.rtl .elementor-630 .elementor-element.elementor-element-ced4aea {
     --content-transition-delay: 800ms;
     --galleries-title-color-normal: #FFFFFF;
     --galleries-title-color-hover: #DCDCDC;
-    --galleries-pointer-bg-color-hover: #F08C3C;
-    --gallery-title-color-active: #F08C3C;
-    --galleries-pointer-bg-color-active: #F08C3C;
+    --galleries-pointer-bg-color-hover: #2e8b57;
+    --gallery-title-color-active: #2e8b57;
+    --galleries-pointer-bg-color-active: #2e8b57;
 }
 
 .elementor-630 .elementor-element.elementor-element-0c1a86d .e-gallery-item:hover .elementor-gallery-item__overlay {
@@ -1566,8 +1564,8 @@ body.rtl .elementor-630 .elementor-element.elementor-element-ced4aea {
     font-weight: 400;
     text-transform: uppercase;
     text-decoration: underline;
-    fill: #F08C3C;
-    color: #F08C3C;
+    fill: #2e8b57;
+    color: #2e8b57;
     background-color: #61CE7000;
 }
 
@@ -1578,18 +1576,13 @@ body.rtl .elementor-630 .elementor-element.elementor-element-ced4aea {
 
 .elementor-630 .elementor-element.elementor-element-c659d4c .elementor-button:hover svg,
 .elementor-630 .elementor-element.elementor-element-c659d4c .elementor-button:focus svg {
-    fill: #FFFFFF;
+    fill: #61CE7000;
 }
 
 .elementor-630 .elementor-element.elementor-element-c7ef86e {
     overflow: hidden;
     transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
     padding: 60px 0px 60px 0px;
-}
-
-.elementor-630 .elementor-element.elementor-element-c7ef86e:not(.elementor-motion-effects-element-type-background),
-.elementor-630 .elementor-element.elementor-element-c7ef86e>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-color: #111319;
 }
 
 .elementor-630 .elementor-element.elementor-element-c7ef86e>.elementor-background-overlay {
@@ -1630,7 +1623,7 @@ body.rtl .elementor-630 .elementor-element.elementor-element-a10affa {
 
 .elementor-630 .elementor-element.elementor-element-c79051d:not(.elementor-motion-effects-element-type-background),
 .elementor-630 .elementor-element.elementor-element-c79051d>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-color: white;
+    background-color: #2e8b57;
     background-image: url("../../2024/07/Ellipse-5.png");
     background-position: top right;
     background-repeat: no-repeat;
@@ -2179,7 +2172,7 @@ body.rtl .elementor-630 .elementor-element.elementor-element-cc71e87 {
 
 .elementor-630 .elementor-element.elementor-element-444dd97:hover>.elementor-element-populated {
     background-color: transparent;
-    background-image: linear-gradient(180deg, #F08C3C 40%, #191C26 32%);
+    background-image: linear-gradient(180deg, #2e8b57 40%, #191C26 32%);
 }
 
 .elementor-630 .elementor-element.elementor-element-444dd97>.elementor-element-populated {
@@ -2312,7 +2305,7 @@ body:not(.rtl) .elementor-630 .elementor-element.elementor-element-11b5aa5 .elem
     background-color: #61CE7000;
     border-style: solid;
     border-width: 2px 2px 2px 2px;
-    border-color: #F08C3C;
+    border-color: #2e8b57;
     border-radius: 35px 35px 35px 35px;
 }
 
@@ -2331,7 +2324,7 @@ body:not(.rtl) .elementor-630 .elementor-element.elementor-element-11b5aa5 .elem
 
 .elementor-630 .elementor-element.elementor-element-b002868:hover>.elementor-element-populated {
     background-color: transparent;
-    background-image: linear-gradient(180deg, #F08C3C 40%, #191C26 32%);
+    background-image: linear-gradient(180deg, #2e8b57 40%, #191C26 32%);
 }
 
 .elementor-630 .elementor-element.elementor-element-b002868>.elementor-element-populated {
@@ -2476,7 +2469,7 @@ body:not(.rtl) .elementor-630 .elementor-element.elementor-element-49f343f .elem
     background-color: #61CE7000;
     border-style: solid;
     border-width: 2px 2px 2px 2px;
-    border-color: #F08C3C;
+    border-color: #2e8b57;
     border-radius: 35px 35px 35px 35px;
 }
 
@@ -2495,7 +2488,7 @@ body:not(.rtl) .elementor-630 .elementor-element.elementor-element-49f343f .elem
 
 .elementor-630 .elementor-element.elementor-element-c56eb4b:hover>.elementor-element-populated {
     background-color: transparent;
-    background-image: linear-gradient(180deg, #F08C3C 40%, #191C26 32%);
+    background-image: linear-gradient(180deg, #2e8b57 40%, #191C26 32%);
 }
 
 .elementor-630 .elementor-element.elementor-element-c56eb4b>.elementor-element-populated {
@@ -2640,7 +2633,7 @@ body:not(.rtl) .elementor-630 .elementor-element.elementor-element-6ce3d88 .elem
     background-color: #61CE7000;
     border-style: solid;
     border-width: 2px 2px 2px 2px;
-    border-color: #F08C3C;
+    border-color: #2e8b57;
     border-radius: 35px 35px 35px 35px;
 }
 
@@ -2667,7 +2660,7 @@ body:not(.rtl) .elementor-630 .elementor-element.elementor-element-6ce3d88 .elem
 
 .elementor-630 .elementor-element.elementor-element-61e55bf:hover>.elementor-element-populated {
     background-color: transparent;
-    background-image: linear-gradient(180deg, #F08C3C 40%, #191C26 32%);
+    background-image: linear-gradient(180deg, #2e8b57 40%, #191C26 32%);
 }
 
 .elementor-630 .elementor-element.elementor-element-61e55bf>.elementor-element-populated {
@@ -2800,7 +2793,7 @@ body:not(.rtl) .elementor-630 .elementor-element.elementor-element-dd85ea2 .elem
     background-color: #61CE7000;
     border-style: solid;
     border-width: 2px 2px 2px 2px;
-    border-color: #F08C3C;
+    border-color: #2e8b57;
     border-radius: 35px 35px 35px 35px;
 }
 
@@ -2819,7 +2812,7 @@ body:not(.rtl) .elementor-630 .elementor-element.elementor-element-dd85ea2 .elem
 
 .elementor-630 .elementor-element.elementor-element-f99bf37:hover>.elementor-element-populated {
     background-color: transparent;
-    background-image: linear-gradient(180deg, #F08C3C 40%, #191C26 32%);
+    background-image: linear-gradient(180deg, #2e8b57 40%, #191C26 32%);
 }
 
 .elementor-630 .elementor-element.elementor-element-f99bf37>.elementor-element-populated {
@@ -2964,7 +2957,7 @@ body:not(.rtl) .elementor-630 .elementor-element.elementor-element-e242594 .elem
     background-color: #61CE7000;
     border-style: solid;
     border-width: 2px 2px 2px 2px;
-    border-color: #F08C3C;
+    border-color: #2e8b57;
     border-radius: 35px 35px 35px 35px;
 }
 
@@ -2983,7 +2976,7 @@ body:not(.rtl) .elementor-630 .elementor-element.elementor-element-e242594 .elem
 
 .elementor-630 .elementor-element.elementor-element-80627af:hover>.elementor-element-populated {
     background-color: transparent;
-    background-image: linear-gradient(180deg, #F08C3C 40%, #191C26 32%);
+    background-image: linear-gradient(180deg, #2e8b57 40%, #191C26 32%);
 }
 
 .elementor-630 .elementor-element.elementor-element-80627af>.elementor-element-populated {
@@ -3128,7 +3121,7 @@ body:not(.rtl) .elementor-630 .elementor-element.elementor-element-93e6dbf .elem
     background-color: #61CE7000;
     border-style: solid;
     border-width: 2px 2px 2px 2px;
-    border-color: #F08C3C;
+    border-color: #2e8b57;
     border-radius: 35px 35px 35px 35px;
 }
 
@@ -3146,8 +3139,8 @@ body:not(.rtl) .elementor-630 .elementor-element.elementor-element-93e6dbf .elem
     font-weight: 400;
     text-transform: uppercase;
     text-decoration: underline;
-    fill: #F08C3C;
-    color: #F08C3C;
+    fill: #2e8b57;
+    color: #2e8b57;
     background-color: #61CE7000;
 }
 
@@ -4279,7 +4272,7 @@ body.elementor-page-630>.elementor-motion-effects-container>.elementor-motion-ef
 /* End custom CSS */
 /* Start custom CSS for counter, class: .elementor-element-dd9bbf6 */
 .counterrow .counter {
-    border: 2px solid #F08C3C;
+    border: 2px solid #2e8b57;
     height: 300px;
     width: 300px;
     display: flex;
@@ -4298,7 +4291,7 @@ body.elementor-page-630>.elementor-motion-effects-container>.elementor-motion-ef
 /* End custom CSS */
 /* Start custom CSS for counter, class: .elementor-element-dd7d3e8 */
 .counterrow .counter {
-    border: 2px solid #F08C3C;
+    border: 2px solid #2e8b57;
     height: 300px;
     width: 300px;
     display: flex;
@@ -4310,7 +4303,7 @@ body.elementor-page-630>.elementor-motion-effects-container>.elementor-motion-ef
 /* End custom CSS */
 /* Start custom CSS for counter, class: .elementor-element-7d587dc */
 .counterrow .counter {
-    border: 2px solid #F08C3C;
+    border: 2px solid #2e8b57;
     height: 300px;
     width: 300px;
     display: flex;
@@ -4322,13 +4315,13 @@ body.elementor-page-630>.elementor-motion-effects-container>.elementor-motion-ef
 /* End custom CSS */
 /* Start custom CSS for section, class: .elementor-element-eaacada */
 .worldrow h2 span {
-    color: #1587c3
+    color: #2e8b57
 }
 
 /* End custom CSS */
 /* Start custom CSS for counter, class: .elementor-element-be5add5 */
 .counterrow .counter {
-    border: 2px solid #F08C3C;
+    border: 2px solid #2e8b57;
     height: 300px;
     width: 300px;
     display: flex;
@@ -4340,7 +4333,7 @@ body.elementor-page-630>.elementor-motion-effects-container>.elementor-motion-ef
 /* End custom CSS */
 /* Start custom CSS for counter, class: .elementor-element-e5c5b13 */
 .counterrow .counter {
-    border: 2px solid #F08C3C;
+    border: 2px solid #2e8b57;
     height: 300px;
     width: 300px;
     display: flex;
@@ -4352,7 +4345,7 @@ body.elementor-page-630>.elementor-motion-effects-container>.elementor-motion-ef
 /* End custom CSS */
 /* Start custom CSS for counter, class: .elementor-element-2341faf */
 .counterrow .counter {
-    border: 2px solid #F08C3C;
+    border: 2px solid #2e8b57;
     height: 300px;
     width: 300px;
     display: flex;
@@ -4364,7 +4357,7 @@ body.elementor-page-630>.elementor-motion-effects-container>.elementor-motion-ef
 /* End custom CSS */
 /* Start custom CSS for counter, class: .elementor-element-ad7e272 */
 .counterrow .counter {
-    border: 2px solid #F08C3C;
+    border: 2px solid white;
     height: 300px;
     width: 300px;
     display: flex;
@@ -4387,13 +4380,13 @@ body.elementor-page-630>.elementor-motion-effects-container>.elementor-motion-ef
     position: relative;
     top: -10px;
     font-size: 24px;
-    color: #F08C3C;
+    color: #2e8b57;
 }
 
 /* End custom CSS */
 /* Start custom CSS for section, class: .elementor-element-1f7d51e */
 .portfolio h2 span {
-    color: #F08C3C;
+    color: #2e8b57;
 }
 
 /* End custom CSS */
@@ -4476,7 +4469,7 @@ body.elementor-page-630>.elementor-motion-effects-container>.elementor-motion-ef
 /* End custom CSS */
 /* Start custom CSS for section, class: .elementor-element-625dc2d */
 .pack h2 span {
-    color: #F08C3C;
+    color: #2e8b57;
 }
 
 .packrow .packbox p span {

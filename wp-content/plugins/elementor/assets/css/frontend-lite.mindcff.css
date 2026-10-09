@@ -435,14 +435,14 @@
     box-shadow: none;
     /* filter: brightness(0) saturate(100%); */
 }
-.marimg  {
+/* .marimg  {
     height: auto;
     max-width: 100%;
     border: none;
     border-radius: 0;
     box-shadow: none;
     filter: brightness(0) saturate(100%);
-}
+} */
 
 .elementor .elementor-widget:not(.elementor-widget-text-editor):not(.elementor-widget-theme-post-content) figure {
     margin: 0

@@ -150,13 +150,9 @@
 	font-weight: var(--e-global-typography-primary-font-weight);
 }
 
-/* .elementor-widget-counter .elementor-counter-title {
-	color: var(--e-global-color-secondary);
-	font-family: var(--e-global-typography-secondary-font-family), Sans-serif;
-	font-weight: var(--e-global-typography-secondary-font-weight);
-} */
+
 .elementor-widget-counter .elementor-counter-title {
-	color: black;
+	color: white;
 	font-family: var(--e-global-typography-secondary-font-family), Sans-serif;
 	font-weight: var(--e-global-typography-secondary-font-weight);
 }

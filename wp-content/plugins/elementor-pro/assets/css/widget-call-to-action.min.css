@@ -59,8 +59,8 @@
 .elementor-cta--skin-cover .elementor-cta__button.elementor-button,
 .elementor-cta--skin-cover .elementor-cta__content-item,
 .elementor-cta--skin-cover .elementor-cta__content-item .elementor-icon {
-    color: #000;
-    border-color: #000
+    color: #fff;
+    border-color: #fff
 }
 
 .elementor-cta--layout-image-above .elementor-cta {

@@ -433,6 +433,14 @@
     border: none;
     border-radius: 0;
     box-shadow: none;
+    /* filter: brightness(0) saturate(100%); */
+}
+.marimg  {
+    height: auto;
+    max-width: 100%;
+    border: none;
+    border-radius: 0;
+    box-shadow: none;
     filter: brightness(0) saturate(100%);
 }
 
@@ -3033,7 +3041,7 @@ body.rtl .e-con {
 
 .elementor-element,
 .elementor-lightbox {
-    --swiper-theme-color: #000;
+    --swiper-theme-color: #fff;
     --swiper-navigation-size: 44px;
     --swiper-pagination-bullet-size: 6px;
     --swiper-pagination-bullet-horizontal-gap: 6px

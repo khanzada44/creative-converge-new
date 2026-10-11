@@ -483,7 +483,7 @@ body .elementor-630 .elementor-element.elementor-element-32015f4 .elementor-labe
     font-size: 16px;
     font-weight: 400;
     text-transform: capitalize;
-    border-style: solid;
+    /* border-style: solid; */
     border-radius: 35px 35px 35px 35px;
 }
 
@@ -1571,12 +1571,12 @@ body.rtl .elementor-630 .elementor-element.elementor-element-ced4aea {
 
 .elementor-630 .elementor-element.elementor-element-c659d4c .elementor-button:hover,
 .elementor-630 .elementor-element.elementor-element-c659d4c .elementor-button:focus {
-    color: #61CE7000;
+    color: #38ca77;
 }
 
 .elementor-630 .elementor-element.elementor-element-c659d4c .elementor-button:hover svg,
 .elementor-630 .elementor-element.elementor-element-c659d4c .elementor-button:focus svg {
-    fill: #61CE7000;
+    color: #39c575;
 }
 
 .elementor-630 .elementor-element.elementor-element-c7ef86e {
@@ -1635,14 +1635,14 @@ body.rtl .elementor-630 .elementor-element.elementor-element-a10affa {
 }
 
 .elementor-630 .elementor-element.elementor-element-21ebeb9 .elementor-heading-title {
-    color: black;
+    color: white;
     font-family: "Poppins", Sans-serif;
     font-size: 16px;
     font-weight: 400;
 }
 
 .elementor-630 .elementor-element.elementor-element-d6d0ed4 .elementor-heading-title {
-    color: black;
+      color: white;
     font-family: "Poppins", Sans-serif;
     font-size: 50px;
     font-weight: 400;
@@ -1654,7 +1654,7 @@ body.rtl .elementor-630 .elementor-element.elementor-element-a10affa {
 }
 
 .elementor-630 .elementor-element.elementor-element-752cd35>.elementor-element-populated {
-    border-style: solid;
+    /* border-style: solid; */
     border-width: 1px 1px 0px 1px;
     transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
 }
@@ -1702,7 +1702,7 @@ body.rtl .elementor-630 .elementor-element.elementor-element-a10affa {
 }
 
 .elementor-630 .elementor-element.elementor-element-2875174 .elementor-image-box-description {
-    color: black;
+    color: white;
     font-family: "Mulish", Sans-serif;
     font-size: 16px;
     font-weight: 400;
@@ -1710,12 +1710,12 @@ body.rtl .elementor-630 .elementor-element.elementor-element-a10affa {
 
 .elementor-630 .elementor-element.elementor-element-2875174>.elementor-widget-container {
     padding: 25px 25px 25px 25px;
-    border-style: solid;
+    /* border-style: solid; */
     border-width: 0px 0px 0px 0px;
 }
 
 .elementor-630 .elementor-element.elementor-element-a80b0dd>.elementor-element-populated {
-    border-style: solid;
+    /* border-style: solid; */
     border-width: 1px 1px 0px 1px;
     transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
 }
@@ -1763,7 +1763,7 @@ body.rtl .elementor-630 .elementor-element.elementor-element-a10affa {
 }
 
 .elementor-630 .elementor-element.elementor-element-311de4d .elementor-image-box-description {
-    color: black;
+    color: white;
     font-family: "Mulish", Sans-serif;
     font-size: 14px;
     font-weight: 400;
@@ -1771,12 +1771,12 @@ body.rtl .elementor-630 .elementor-element.elementor-element-a10affa {
 
 .elementor-630 .elementor-element.elementor-element-311de4d>.elementor-widget-container {
     padding: 25px 25px 25px 25px;
-    border-style: solid;
+    /* border-style: solid; */
     border-width: 0px 0px 0px 0px;
 }
 
 .elementor-630 .elementor-element.elementor-element-7101939>.elementor-element-populated {
-    border-style: solid;
+    /* border-style: solid; */
     border-width: 1px 1px 0px 1px;
     transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
 }
@@ -1824,7 +1824,7 @@ body.rtl .elementor-630 .elementor-element.elementor-element-a10affa {
 }
 
 .elementor-630 .elementor-element.elementor-element-b153b89 .elementor-image-box-description {
-    color: black;
+    color: white;
     font-family: "Mulish", Sans-serif;
     font-size: 16px;
     font-weight: 400;
@@ -1832,12 +1832,12 @@ body.rtl .elementor-630 .elementor-element.elementor-element-a10affa {
 
 .elementor-630 .elementor-element.elementor-element-b153b89>.elementor-widget-container {
     padding: 25px 25px 25px 25px;
-    border-style: solid;
+    /* border-style: solid; */
     border-width: 0px 0px 0px 0px;
 }
 
 .elementor-630 .elementor-element.elementor-element-d6886a7>.elementor-element-populated {
-    border-style: solid;
+    /* border-style: solid; */
     border-width: 1px 1px 0px 1px;
     transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
 }
@@ -1885,7 +1885,7 @@ body.rtl .elementor-630 .elementor-element.elementor-element-a10affa {
 }
 
 .elementor-630 .elementor-element.elementor-element-a4631ea .elementor-image-box-description {
-    color: black;
+    color: white;
     font-family: "Mulish", Sans-serif;
     font-size: 14px;
     font-weight: 400;
@@ -1893,7 +1893,7 @@ body.rtl .elementor-630 .elementor-element.elementor-element-a10affa {
 
 .elementor-630 .elementor-element.elementor-element-a4631ea>.elementor-widget-container {
     padding: 25px 25px 25px 25px;
-    border-style: solid;
+    /* border-style: solid; */
     border-width: 0px 0px 0px 0px;
 }
 
@@ -2062,7 +2062,7 @@ body.rtl .elementor-630 .elementor-element.elementor-element-a10affa {
 }
 
 .elementor-630 .elementor-element.elementor-element-4e2b2e5 {
-    --divider-border-style: solid;
+    /* --divider-border-style: solid; */
     --divider-color: #A9AFC3;
     --divider-border-width: 3.9px;
     width: var(--container-widget-width, 13%);
@@ -2303,7 +2303,7 @@ body:not(.rtl) .elementor-630 .elementor-element.elementor-element-11b5aa5 .elem
     font-size: 20px;
     font-weight: 400;
     background-color: #61CE7000;
-    border-style: solid;
+    /* border-style: solid; */
     border-width: 2px 2px 2px 2px;
     border-color: #2e8b57;
     border-radius: 35px 35px 35px 35px;
@@ -2467,7 +2467,7 @@ body:not(.rtl) .elementor-630 .elementor-element.elementor-element-49f343f .elem
     font-size: 20px;
     font-weight: 400;
     background-color: #61CE7000;
-    border-style: solid;
+    /* border-style: solid; */
     border-width: 2px 2px 2px 2px;
     border-color: #2e8b57;
     border-radius: 35px 35px 35px 35px;
@@ -2631,7 +2631,7 @@ body:not(.rtl) .elementor-630 .elementor-element.elementor-element-6ce3d88 .elem
     font-size: 20px;
     font-weight: 400;
     background-color: #61CE7000;
-    border-style: solid;
+    /* border-style: solid; */
     border-width: 2px 2px 2px 2px;
     border-color: #2e8b57;
     border-radius: 35px 35px 35px 35px;
@@ -2791,7 +2791,7 @@ body:not(.rtl) .elementor-630 .elementor-element.elementor-element-dd85ea2 .elem
     font-size: 20px;
     font-weight: 400;
     background-color: #61CE7000;
-    border-style: solid;
+    /* border-style: solid; */
     border-width: 2px 2px 2px 2px;
     border-color: #2e8b57;
     border-radius: 35px 35px 35px 35px;
@@ -2955,7 +2955,7 @@ body:not(.rtl) .elementor-630 .elementor-element.elementor-element-e242594 .elem
     font-size: 20px;
     font-weight: 400;
     background-color: #61CE7000;
-    border-style: solid;
+    /* border-style: solid; */
     border-width: 2px 2px 2px 2px;
     border-color: #2e8b57;
     border-radius: 35px 35px 35px 35px;
@@ -3119,7 +3119,7 @@ body:not(.rtl) .elementor-630 .elementor-element.elementor-element-93e6dbf .elem
     font-size: 20px;
     font-weight: 400;
     background-color: #61CE7000;
-    border-style: solid;
+    /* border-style: solid; */
     border-width: 2px 2px 2px 2px;
     border-color: #2e8b57;
     border-radius: 35px 35px 35px 35px;
@@ -3243,7 +3243,7 @@ body .elementor-630 .elementor-element.elementor-element-9321938 .elementor-labe
 .elementor-630 .elementor-element.elementor-element-9321938 .elementor-button {
     font-family: "Poppins", Sans-serif;
     font-weight: 500;
-    border-style: solid;
+    /* border-style: solid; */
     border-width: 0px 0px 03px 0px;
     border-radius: 0px 0px 0px 0px;
 }
@@ -4406,10 +4406,9 @@ body.elementor-page-630>.elementor-motion-effects-container>.elementor-motion-ef
     }
 }
 
-/* End custom CSS */
-/* Start custom CSS for section, class: .elementor-element-c79051d */
+
 .potrow h2 span {
-    color: black;
+    color: #fff;
 }
 
 .potrow .busbox p a {

@@ -2050,7 +2050,7 @@ body.rtl .elementor-630 .elementor-element.elementor-element-a10affa {
 
 .elementor-630 .elementor-element.elementor-element-625dc2d:not(.elementor-motion-effects-element-type-background),
 .elementor-630 .elementor-element.elementor-element-625dc2d>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-color: #111319;
+    background-color: #fff;
     background-image: url("../../2024/08/package-bg-object-1.png");
     background-position: top right;
     background-repeat: no-repeat;
@@ -2081,7 +2081,7 @@ body.rtl .elementor-630 .elementor-element.elementor-element-a10affa {
 }
 
 .elementor-630 .elementor-element.elementor-element-0d6a7a6 .elementor-heading-title {
-    color: #A9AFC3;
+    color: #000000;
     font-family: "Poppins", Sans-serif;
     font-size: 16px;
     font-weight: 400;
@@ -2093,14 +2093,14 @@ body.rtl .elementor-630 .elementor-element.elementor-element-a10affa {
 }
 
 .elementor-630 .elementor-element.elementor-element-66b416e .elementor-heading-title {
-    color: #FFFFFF;
+    color: #000000;
     font-family: "Poppins", Sans-serif;
     font-size: 55px;
     font-weight: 700;
 }
 
 .elementor-630 .elementor-element.elementor-element-404c785 {
-    color: #A9AFC3;
+    color: #000000;
     font-family: "Poppins", Sans-serif;
     font-size: 16px;
     font-weight: 400;

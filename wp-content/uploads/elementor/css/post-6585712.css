@@ -304,8 +304,9 @@ body.rtl .elementor-658 .elementor-element.elementor-element-1627dd0 {
 }
 
 .elementor-658 .elementor-element.elementor-element-98888ad:not(.elementor-motion-effects-element-type-background),
-.elementor-658 .elementor-element.elementor-element-98888ad>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-  background-color: #111319;
+.elementor-658 .elementor-element.elementor-element-98888ad > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+  background-color: transparent;
+  background-image: linear-gradient(110deg, #000000 5%,  #286b45  100%);
 }
 
 .elementor-658 .elementor-element.elementor-element-98888ad {
@@ -360,15 +361,15 @@ body.rtl .elementor-658 .elementor-element.elementor-element-3c866c8 {
 
 .elementor-658 .elementor-element.elementor-element-3c866c8 img {
   width: 50%;
+  filter: brightness(0) saturate(100%) invert(47%) sepia(87%) saturate(425%) hue-rotate(80deg) brightness(95%) contrast(90%);
 }
-
 .elementor-658 .elementor-element.elementor-element-091c0b1 {
   padding: 30px 0px 30px 0px;
 }
 
 .elementor-658 .elementor-element.elementor-element-71ea767>.elementor-widget-container {
   padding: 40px 40px 40px 40px;
-  background-color: #080A12;
+  background-color: #286b45;
   border-radius: 30px 30px 30px 30px;
 }
 
@@ -408,7 +409,7 @@ body.rtl .elementor-658 .elementor-element.elementor-element-3c866c8 {
 
 .elementor-658 .elementor-element.elementor-element-109d752>.elementor-widget-container {
   padding: 40px 40px 69px 40px;
-  background-color: #080A12;
+  background-color: #286b45;
   border-radius: 30px 30px 30px 30px;
 }
 
@@ -448,7 +449,7 @@ body.rtl .elementor-658 .elementor-element.elementor-element-3c866c8 {
 
 .elementor-658 .elementor-element.elementor-element-0d289bf>.elementor-widget-container {
   padding: 40px 40px 50px 40px;
-  background-color: #080A12;
+  background-color: #286b45;
   border-radius: 30px 30px 30px 30px;
 }
 
@@ -492,7 +493,7 @@ body.rtl .elementor-658 .elementor-element.elementor-element-3c866c8 {
 
 .elementor-658 .elementor-element.elementor-element-256dfc5>.elementor-widget-container {
   padding: 40px 40px 40px 40px;
-  background-color: #080A12;
+  background-color: #286b45;
   border-radius: 30px 30px 30px 30px;
 }
 
@@ -1086,7 +1087,7 @@ body .elementor-658 .elementor-element.elementor-element-2172c7a .elementor-labe
 /* End custom CSS */
 /* Start custom CSS for section, class: .elementor-element-ffd4206 */
 .worldrow h2 span {
-  color: #1587c3;
+  color: #286b45;
 }
 
 /* End custom CSS */

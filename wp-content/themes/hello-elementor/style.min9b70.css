@@ -298,14 +298,14 @@ button {
 button {
     display: inline-block;
     font-weight: 400;
-    color: #1587c3;
+    color: #286b45;
     text-align: center;
     white-space: nowrap;
     -webkit-user-select: none;
     -moz-user-select: none;
     user-select: none;
     background-color: transparent;
-    border: 1px solid #1587c3;
+    border: 1px solid #286b45;
     padding: .5rem 1rem;
     font-size: 1rem;
     border-radius: 3px;
@@ -325,7 +325,7 @@ button:focus:not(:focus-visible) {
 button:focus,
 button:hover {
     color: #fff;
-    background-color: #1587c3;
+    background-color: #286b45;
     text-decoration: none;
 }
 

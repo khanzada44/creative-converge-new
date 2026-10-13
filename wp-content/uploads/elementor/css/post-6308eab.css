@@ -103,7 +103,7 @@ body.rtl .elementor-630 .elementor-element.elementor-element-8474fe0 {
 
 .elementor-630 .elementor-element.elementor-element-35a3ecb:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
 .elementor-630 .elementor-element.elementor-element-35a3ecb>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-image: url("../../2024/07/Group-691314592.png");
+    background-image: url("../../2024/07/Group-691314592-1.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -164,14 +164,14 @@ body.rtl .elementor-630 .elementor-element.elementor-element-8474fe0 {
 }
 
 .elementor-630 .elementor-element.elementor-element-fe3fc20 {
-    color: #A9AFC3;
+    color: white;
     font-family: "Poppins", Sans-serif;
     font-size: 16px;
     font-weight: 400;
 }
 
 .elementor-630 .elementor-element.elementor-element-b32e4e6 {
-    color: #A9AFC3;
+    color: white;
     font-family: "Poppins", Sans-serif;
     font-size: 16px;
     font-weight: 400;
@@ -544,7 +544,7 @@ body .elementor-630 .elementor-element.elementor-element-32015f4 .elementor-labe
 
 .elementor-630 .elementor-element.elementor-element-7a687a9:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
 .elementor-630 .elementor-element.elementor-element-7a687a9>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-image: url("../../2024/07/conbg.png");
+    background-image: url("../../2024/07/conbg-1.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -868,12 +868,26 @@ body .elementor-630 .elementor-element.elementor-element-32015f4 .elementor-labe
 }
 
 .elementor-630 .elementor-element.elementor-element-c43827a:not(.elementor-motion-effects-element-type-background),
-.elementor-630 .elementor-element.elementor-element-c43827a>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-color: #2e8b57;
-    background-image: url("../../2024/07/choose.png");
-    background-position: top left;
-    background-repeat: no-repeat;
-    background-size: contain;
+.elementor-630 .elementor-element.elementor-element-c43827a > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background: linear-gradient(
+        143deg,
+        rgb(2, 73, 61) 8%,
+        rgb(56, 235, 131) 53%,
+        rgb(9, 117, 27) 100%
+    );
+
+    background-image:
+        url("../../2024/07/choose.png"),
+        linear-gradient(
+            143deg,
+            rgb(0, 54, 32) 8%,
+            rgb(14, 218, 31) 53%,
+            rgba(0, 0, 54, 1) 100%
+        );
+
+    background-position: top left, center;
+    background-repeat: no-repeat, no-repeat;
+    background-size: contain, cover;
 }
 
 .elementor-630 .elementor-element.elementor-element-c43827a {

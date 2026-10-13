@@ -3087,7 +3087,7 @@ body.rtl .e-con {
 .elementor-lightbox .swiper-container~.elementor-swiper-button svg,
 .elementor-lightbox .swiper .elementor-swiper-button svg,
 .elementor-lightbox .swiper~.elementor-swiper-button svg {
-    fill: hsla(0, 0%, 93.3%, .9);
+    fill: hsla(0, 0%, 0%, 0.9);
     height: 1em;
     width: 1em
 }

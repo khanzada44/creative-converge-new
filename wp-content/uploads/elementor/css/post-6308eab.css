@@ -191,8 +191,8 @@ body.rtl .elementor-630 .elementor-element.elementor-element-8474fe0 {
     font-weight: 400;
     text-transform: uppercase;
     text-decoration: underline;
-    fill: #00A8A8;
-    color: #00A8A8;
+    fill: #057662;
+    color: #057662;
     background-color: #61CE7000;
 }
 
@@ -229,14 +229,17 @@ body.rtl .elementor-630 .elementor-element.elementor-element-f086ef7 {
 
 .elementor-630 .elementor-element.elementor-element-84c9d06:not(.elementor-motion-effects-element-type-background),
 .elementor-630 .elementor-element.elementor-element-84c9d06 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: #01604F;
     background-image:
         url("../../2024/07/bg-object.png"),
         linear-gradient(
-            135deg,
-            #0B1F2A 0%,
-            #00A8A8 50%,
-            #18D0C8 75%,
-            #00F2FE 100%
+            100deg,
+            #0D9981 0%,
+            #098A74 25%,
+            #057662 40%,
+            #01604F 55%,
+            #004F41 85%,
+            #00463A 100%
         );
 
     background-position: top right, center;
@@ -498,13 +501,13 @@ body .elementor-630 .elementor-element.elementor-element-32015f4 .elementor-labe
 .elementor-630 .elementor-element.elementor-element-32015f4 .e-form__buttons__wrapper__button-next {
     background-color: #61CE7000;
     color: #ffffff;
-    border-color: #00A8A8;
+    border-color: #057662;
 }
 
 .elementor-630 .elementor-element.elementor-element-32015f4 .elementor-button[type="submit"] {
     background-color: #61CE7000;
     color: #ffffff;
-    border-color: #00A8A8;
+    border-color: #057662;
 }
 
 .elementor-630 .elementor-element.elementor-element-32015f4 .elementor-button[type="submit"] svg * {
@@ -513,7 +516,7 @@ body .elementor-630 .elementor-element.elementor-element-32015f4 .elementor-labe
 
 .elementor-630 .elementor-element.elementor-element-32015f4 .e-form__buttons__wrapper__button-previous {
     color: #ffffff;
-    border-color: #00A8A8;
+    border-color: #057662;
 }
 
 .elementor-630 .elementor-element.elementor-element-32015f4 .e-form__buttons__wrapper__button-next:hover {
@@ -584,19 +587,13 @@ body .elementor-630 .elementor-element.elementor-element-32015f4 .elementor-labe
 
 .elementor-630 .elementor-element.elementor-element-d4527dc:not(.elementor-motion-effects-element-type-background),
 .elementor-630 .elementor-element.elementor-element-d4527dc > .elementor-motion-effects-container > .elementor-motion-effects-layer {
-    background-color: #0B1F2A;
+    background-color: #00211B;
     background-image:
-        url("../../2024/07/Illustration-Art.png"),
-        linear-gradient(
-            135deg,
-            #0B1F2A 0%,
-            #00A8A8 50%,
-            #18D0C8 75%,
-            #00F2FE 100%
-        );
-    background-position: 50% 42%, center;
+        radial-gradient(70% 90% at 12% 10%, rgba(28, 197, 169, 0.45) 0%, rgba(28, 197, 169, 0) 60%),
+        linear-gradient(160deg, #03866F 0%, #004337 48%, #00211B 100%);
+    background-position: center, center;
     background-repeat: no-repeat, no-repeat;
-    background-size: 250px auto, cover;
+    background-size: cover, cover;
 }
 
 .elementor-630 .elementor-element.elementor-element-d4527dc>.elementor-background-overlay {
@@ -884,11 +881,18 @@ body .elementor-630 .elementor-element.elementor-element-32015f4 .elementor-labe
 
 .elementor-630 .elementor-element.elementor-element-c43827a:not(.elementor-motion-effects-element-type-background),
 .elementor-630 .elementor-element.elementor-element-c43827a > .elementor-motion-effects-container > .elementor-motion-effects-layer {
-    background: linear-gradient(135deg, #0B1F2A 0%, #00A8A8 50%, #18D0C8 75%, #00F2FE 100%);
-
+    background-color: #01604F;
     background-image:
         url("../../2024/07/choose.png"),
-        linear-gradient(135deg, #0B1F2A 0%, #00A8A8 50%, #18D0C8 75%, #00F2FE 100%);
+        linear-gradient(
+            100deg,
+            #0D9981 0%,
+            #098A74 25%,
+            #057662 40%,
+            #01604F 55%,
+            #004F41 85%,
+            #00463A 100%
+        );
 
     background-position: top left, center;
     background-repeat: no-repeat, no-repeat;
@@ -1093,14 +1097,14 @@ body .elementor-630 .elementor-element.elementor-element-32015f4 .elementor-labe
 }
 
 .elementor-630 .elementor-element.elementor-element-7730c6a.elementor-view-stacked .elementor-icon {
-    background-color: #00A8A8;
+    background-color: #057662;
 }
 
 .elementor-630 .elementor-element.elementor-element-7730c6a.elementor-view-framed .elementor-icon,
 .elementor-630 .elementor-element.elementor-element-7730c6a.elementor-view-default .elementor-icon {
-  fill: #00A8A8;
-    color: #00A8A8;
-    border-color: #00A8A8;
+  fill: #057662;
+    color: #057662;
+    border-color: #057662;
     transition: all 0.3s ease;
 }
 
@@ -1132,14 +1136,14 @@ body .elementor-630 .elementor-element.elementor-element-32015f4 .elementor-labe
 }
 
 .elementor-630 .elementor-element.elementor-element-14c269e.elementor-view-stacked .elementor-icon {
-    background-color: #00A8A8;
+    background-color: #057662;
 }
 
 .elementor-630 .elementor-element.elementor-element-14c269e.elementor-view-framed .elementor-icon,
 .elementor-630 .elementor-element.elementor-element-14c269e.elementor-view-default .elementor-icon {
-    fill: #00A8A8;
-    color: #00A8A8;
-    border-color: #00A8A8;
+    fill: #057662;
+    color: #057662;
+    border-color: #057662;
 }
 
 .elementor-630 .elementor-element.elementor-element-14c269e .elementor-icon {
@@ -1263,8 +1267,8 @@ body.rtl .elementor-630 .elementor-element.elementor-element-ced4aea {
     font-weight: 400;
     text-transform: uppercase;
     text-decoration: underline;
-    fill: #00A8A8;
-    color: linear-gradient(135deg, #00A8A8 0%, #18D0C8 50%, #00F2FE 100%);
+    fill: #057662;
+    color: linear-gradient(135deg, #057662 0%, #18D0C8 50%, #00F2FE 100%);
     background-color: #61CE7000;
 }
 
@@ -1547,8 +1551,8 @@ body.rtl .elementor-630 .elementor-element.elementor-element-ced4aea {
     --galleries-title-color-hover: #18D0C8;
 
     --galleries-pointer-bg-color-hover: #18D0C8;
-    --gallery-title-color-active: #00A8A8;
-    --galleries-pointer-bg-color-active: #00A8A8;
+    --gallery-title-color-active: #057662;
+    --galleries-pointer-bg-color-active: #057662;
 }
 
 .elementor-630 .elementor-element.elementor-element-0c1a86d .e-gallery-item:hover .elementor-gallery-item__overlay {
@@ -1586,19 +1590,19 @@ body.rtl .elementor-630 .elementor-element.elementor-element-ced4aea {
     font-weight: 400;
     text-transform: uppercase;
     text-decoration: underline;
-    fill: #00A8A8;
-    color: #00A8A8;
+    fill: #057662;
+    color: #057662;
     background-color: #61CE7000;
 }
 
 .elementor-630 .elementor-element.elementor-element-c659d4c .elementor-button:hover,
 .elementor-630 .elementor-element.elementor-element-c659d4c .elementor-button:focus {
-    color: #00A8A8;
+    color: #057662;
 }
 
 .elementor-630 .elementor-element.elementor-element-c659d4c .elementor-button:hover svg,
 .elementor-630 .elementor-element.elementor-element-c659d4c .elementor-button:focus svg {
-    color: #00A8A8;
+    color: #057662;
 }
 
 .elementor-630 .elementor-element.elementor-element-c7ef86e {
@@ -1645,10 +1649,19 @@ body.rtl .elementor-630 .elementor-element.elementor-element-a10affa {
 
 .elementor-630 .elementor-element.elementor-element-c79051d:not(.elementor-motion-effects-element-type-background),
 .elementor-630 .elementor-element.elementor-element-c79051d > .elementor-motion-effects-container > .elementor-motion-effects-layer {
-    background-color: #00A8A8;
+    background-color: #04725F;
     background-image:
         url("../../2024/07/Ellipse-5.png"),
-        linear-gradient(135deg, #00A8A8 0%, #18D0C8 50%, #00F2FE 100%);
+        linear-gradient(
+            100deg,
+            #0B947C 0%,
+            #0D977F 15%,
+            #098670 30%,
+            #04725F 45%,
+            #016150 60%,
+            #015949 75%,
+            #014C3F 100%
+        );
     background-position: top right, center;
     background-repeat: no-repeat, no-repeat;
     background-size: contain, cover;
@@ -2196,7 +2209,7 @@ body.rtl .elementor-630 .elementor-element.elementor-element-cc71e87 {
 
 .elementor-630 .elementor-element.elementor-element-444dd97:hover>.elementor-element-populated {
     background-color: transparent;
-    background-image: linear-gradient(180deg, #00A8A8 40%, #191C26 32%);
+    background-image: linear-gradient(180deg, #057662 40%, #191C26 32%);
 }
 
 .elementor-630 .elementor-element.elementor-element-444dd97>.elementor-element-populated {
@@ -2329,7 +2342,7 @@ body:not(.rtl) .elementor-630 .elementor-element.elementor-element-11b5aa5 .elem
     background-color: #61CE7000;
     /* border-style: solid; */
     border-width: 2px 2px 2px 2px;
-    border-color: #00A8A8;
+    border-color: #057662;
     border-radius: 35px 35px 35px 35px;
 }
 
@@ -2348,7 +2361,7 @@ body:not(.rtl) .elementor-630 .elementor-element.elementor-element-11b5aa5 .elem
 
 .elementor-630 .elementor-element.elementor-element-b002868:hover>.elementor-element-populated {
     background-color: transparent;
-    background-image: linear-gradient(180deg, #00A8A8 40%, #191C26 32%);
+    background-image: linear-gradient(180deg, #057662 40%, #191C26 32%);
 }
 
 .elementor-630 .elementor-element.elementor-element-b002868>.elementor-element-populated {
@@ -2493,7 +2506,7 @@ body:not(.rtl) .elementor-630 .elementor-element.elementor-element-49f343f .elem
     background-color: #61CE7000;
     /* border-style: solid; */
     border-width: 2px 2px 2px 2px;
-    border-color: #00A8A8;
+    border-color: #057662;
     border-radius: 35px 35px 35px 35px;
 }
 
@@ -2512,7 +2525,7 @@ body:not(.rtl) .elementor-630 .elementor-element.elementor-element-49f343f .elem
 
 .elementor-630 .elementor-element.elementor-element-c56eb4b:hover>.elementor-element-populated {
     background-color: transparent;
-    background-image: linear-gradient(180deg, #00A8A8 40%, #fcfcfc 32%);
+    background-image: linear-gradient(180deg, #057662 40%, #fcfcfc 32%);
 }
 
 .elementor-630 .elementor-element.elementor-element-c56eb4b>.elementor-element-populated {
@@ -2529,14 +2542,14 @@ body:not(.rtl) .elementor-630 .elementor-element.elementor-element-49f343f .elem
 }
 
 .elementor-630 .elementor-element.elementor-element-7768a0c .elementor-heading-title {
-    color: #FFFFFF;
+    color: #000000;
     font-family: "Poppins", Sans-serif;
     font-size: 21px;
     font-weight: 500;
 }
 
 .elementor-630 .elementor-element.elementor-element-cd2924f .elementor-heading-title {
-    color: #FFFFFF;
+    color: #000000;
     font-family: "Mulish", Sans-serif;
     font-size: 22px;
     font-weight: 700;
@@ -2548,7 +2561,7 @@ body:not(.rtl) .elementor-630 .elementor-element.elementor-element-49f343f .elem
 }
 
 .elementor-630 .elementor-element.elementor-element-03ca9d7 .elementor-heading-title {
-    color: #FFFFFF;
+    color: #000000;
     font-family: "Mulish", Sans-serif;
     font-size: 65px;
     font-weight: 400;
@@ -2560,7 +2573,7 @@ body:not(.rtl) .elementor-630 .elementor-element.elementor-element-49f343f .elem
 }
 
 .elementor-630 .elementor-element.elementor-element-0a879f8 .elementor-heading-title {
-    color: #FFFFFF;
+    color: #000000;
     font-family: "Mulish", Sans-serif;
     font-size: 20px;
     font-weight: 700;
@@ -2572,7 +2585,7 @@ body:not(.rtl) .elementor-630 .elementor-element.elementor-element-49f343f .elem
 }
 
 .elementor-630 .elementor-element.elementor-element-b2ec277 .elementor-heading-title {
-    color: #FFFFFF;
+    color: #000000;
     font-family: "Mulish", Sans-serif;
     font-size: 22px;
     font-weight: 700;
@@ -2588,7 +2601,7 @@ body:not(.rtl) .elementor-630 .elementor-element.elementor-element-49f343f .elem
 }
 
 .elementor-630 .elementor-element.elementor-element-4a18b9e .elementor-heading-title {
-    color: #FFFFFF;
+    color: #000000;
     font-family: "Mulish", Sans-serif;
     font-size: 18px;
     font-weight: 400;
@@ -2646,7 +2659,7 @@ body:not(.rtl) .elementor-630 .elementor-element.elementor-element-6ce3d88 .elem
 }
 
 .elementor-630 .elementor-element.elementor-element-6ce3d88 .elementor-icon-list-text {
-    color: #FFFFFF;
+    color: #000000;
     transition: color 0.3s;
 }
 
@@ -2657,7 +2670,7 @@ body:not(.rtl) .elementor-630 .elementor-element.elementor-element-6ce3d88 .elem
     background-color: #61CE7000;
     /* border-style: solid; */
     border-width: 2px 2px 2px 2px;
-    border-color: #00A8A8;
+    border-color: #057662;
     border-radius: 35px 35px 35px 35px;
 }
 
@@ -2684,7 +2697,7 @@ body:not(.rtl) .elementor-630 .elementor-element.elementor-element-6ce3d88 .elem
 
 .elementor-630 .elementor-element.elementor-element-61e55bf:hover>.elementor-element-populated {
     background-color: transparent;
-    background-image: linear-gradient(180deg, #00A8A8 40%, #191C26 32%);
+    background-image: linear-gradient(180deg, #057662 40%, #191C26 32%);
 }
 
 .elementor-630 .elementor-element.elementor-element-61e55bf>.elementor-element-populated {
@@ -2817,7 +2830,7 @@ body:not(.rtl) .elementor-630 .elementor-element.elementor-element-dd85ea2 .elem
     background-color: #61CE7000;
     /* border-style: solid; */
     border-width: 2px 2px 2px 2px;
-    border-color: #00A8A8;
+    border-color: #057662;
     border-radius: 35px 35px 35px 35px;
 }
 
@@ -2836,7 +2849,7 @@ body:not(.rtl) .elementor-630 .elementor-element.elementor-element-dd85ea2 .elem
 
 .elementor-630 .elementor-element.elementor-element-f99bf37:hover>.elementor-element-populated {
     background-color: transparent;
-    background-image: linear-gradient(180deg, #00A8A8 40%, #191C26 32%);
+    background-image: linear-gradient(180deg, #057662 40%, #191C26 32%);
 }
 
 .elementor-630 .elementor-element.elementor-element-f99bf37>.elementor-element-populated {
@@ -2981,7 +2994,7 @@ body:not(.rtl) .elementor-630 .elementor-element.elementor-element-e242594 .elem
     background-color: #61CE7000;
     /* border-style: solid; */
     border-width: 2px 2px 2px 2px;
-    border-color: #00A8A8;
+    border-color: #057662;
     border-radius: 35px 35px 35px 35px;
 }
 
@@ -3000,7 +3013,7 @@ body:not(.rtl) .elementor-630 .elementor-element.elementor-element-e242594 .elem
 
 .elementor-630 .elementor-element.elementor-element-80627af:hover>.elementor-element-populated {
     background-color: transparent;
-    background-image: linear-gradient(180deg, #00A8A8 40%, #191C26 32%);
+    background-image: linear-gradient(180deg, #057662 40%, #191C26 32%);
 }
 
 .elementor-630 .elementor-element.elementor-element-80627af>.elementor-element-populated {
@@ -3145,7 +3158,7 @@ body:not(.rtl) .elementor-630 .elementor-element.elementor-element-93e6dbf .elem
     background-color: #61CE7000;
     /* border-style: solid; */
     border-width: 2px 2px 2px 2px;
-    border-color: #00A8A8;
+    border-color: #057662;
     border-radius: 35px 35px 35px 35px;
 }
 
@@ -3163,8 +3176,8 @@ body:not(.rtl) .elementor-630 .elementor-element.elementor-element-93e6dbf .elem
     font-weight: 400;
     text-transform: uppercase;
     text-decoration: underline;
-    fill: #00A8A8;
-    color: #00A8A8;
+    fill: #057662;
+    color: #057662;
     background-color: #61CE7000;
 }
 
@@ -4296,7 +4309,7 @@ body.elementor-page-630>.elementor-motion-effects-container>.elementor-motion-ef
 /* End custom CSS */
 /* Start custom CSS for counter, class: .elementor-element-dd9bbf6 */
 .counterrow .counter {
-    border: 2px solid #00A8A8;
+    border: 2px solid #057662;
     height: 300px;
     width: 300px;
     display: flex;
@@ -4315,7 +4328,7 @@ body.elementor-page-630>.elementor-motion-effects-container>.elementor-motion-ef
 /* End custom CSS */
 /* Start custom CSS for counter, class: .elementor-element-dd7d3e8 */
 .counterrow .counter {
-    border: 2px solid #00A8A8;
+    border: 2px solid #057662;
     height: 300px;
     width: 300px;
     display: flex;
@@ -4327,7 +4340,7 @@ body.elementor-page-630>.elementor-motion-effects-container>.elementor-motion-ef
 /* End custom CSS */
 /* Start custom CSS for counter, class: .elementor-element-7d587dc */
 .counterrow .counter {
-    border: 2px solid #00A8A8;
+    border: 2px solid #057662;
     height: 300px;
     width: 300px;
     display: flex;
@@ -4339,13 +4352,13 @@ body.elementor-page-630>.elementor-motion-effects-container>.elementor-motion-ef
 /* End custom CSS */
 /* Start custom CSS for section, class: .elementor-element-eaacada */
 .worldrow h2 span {
-    color: #00A8A8
+    color: #057662
 }
 
 /* End custom CSS */
 /* Start custom CSS for counter, class: .elementor-element-be5add5 */
 .counterrow .counter {
-    border: 2px solid #00A8A8;
+    border: 2px solid #057662;
     height: 300px;
     width: 300px;
     display: flex;
@@ -4357,7 +4370,7 @@ body.elementor-page-630>.elementor-motion-effects-container>.elementor-motion-ef
 /* End custom CSS */
 /* Start custom CSS for counter, class: .elementor-element-e5c5b13 */
 .counterrow .counter {
-    border: 2px solid #00A8A8;
+    border: 2px solid #057662;
     height: 300px;
     width: 300px;
     display: flex;
@@ -4369,7 +4382,7 @@ body.elementor-page-630>.elementor-motion-effects-container>.elementor-motion-ef
 /* End custom CSS */
 /* Start custom CSS for counter, class: .elementor-element-2341faf */
 .counterrow .counter {
-    border: 2px solid #00A8A8;
+    border: 2px solid #057662;
     height: 300px;
     width: 300px;
     display: flex;
@@ -4404,13 +4417,13 @@ body.elementor-page-630>.elementor-motion-effects-container>.elementor-motion-ef
     position: relative;
     top: -10px;
     font-size: 24px;
-    color: #00A8A8;
+    color: #057662;
 }
 
 /* End custom CSS */
 /* Start custom CSS for section, class: .elementor-element-1f7d51e */
 .portfolio h2 span {
-    color: #00A8A8;
+    color: #057662;
 }
 
 /* End custom CSS */
@@ -4492,7 +4505,7 @@ body.elementor-page-630>.elementor-motion-effects-container>.elementor-motion-ef
 /* End custom CSS */
 /* Start custom CSS for section, class: .elementor-element-625dc2d */
 .pack h2 span {
-    color: #00A8A8;
+    color: #057662;
 }
 
 .packrow .packbox p span {

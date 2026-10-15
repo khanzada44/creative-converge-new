@@ -68,8 +68,8 @@
 .elementor-661 .elementor-element.elementor-element-5fc43a2 .elementor-nav-menu--main .elementor-item.elementor-item-active,
 .elementor-661 .elementor-element.elementor-element-5fc43a2 .elementor-nav-menu--main .elementor-item.highlighted,
 .elementor-661 .elementor-element.elementor-element-5fc43a2 .elementor-nav-menu--main .elementor-item:focus {
-	color: #00A8A8;
-	fill: #00A8A8;
+	color: #057662;
+	fill: #057662;
 }
 
 .elementor-661 .elementor-element.elementor-element-5fc43a2 .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:before,
@@ -83,7 +83,7 @@
 }
 
 .elementor-661 .elementor-element.elementor-element-5fc43a2 .elementor-nav-menu--main .elementor-item.elementor-item-active {
-	color: #00A8A8;
+	color: #057662;
 }
 
 .elementor-661 .elementor-element.elementor-element-5fc43a2 .e--pointer-framed .elementor-item:before {
@@ -132,7 +132,7 @@
 .elementor-661 .elementor-element.elementor-element-5fc43a2 .elementor-nav-menu--dropdown a:hover,
 .elementor-661 .elementor-element.elementor-element-5fc43a2 .elementor-nav-menu--dropdown a.elementor-item-active,
 .elementor-661 .elementor-element.elementor-element-5fc43a2 .elementor-nav-menu--dropdown a.highlighted {
-	background-color: #00A8A8;
+	background-color: #057662;
 }
 
 .elementor-661 .elementor-element.elementor-element-5fc43a2 .elementor-nav-menu--dropdown .elementor-item,
@@ -188,14 +188,14 @@
 	font-weight: 500;
 	background-color: #61CE7000;
 	border-style: solid;
-	border-color: #00A8A8;
+	border-color: #057662;
 	border-radius: 035px 035px 035px 035px;
 }
 
 .elementor-661 .elementor-element.elementor-element-14b0dc2 .elementor-button:hover,
 .elementor-661 .elementor-element.elementor-element-14b0dc2 .elementor-button:focus {
 	color: #FFFFFF;
-	background-color: #00A8A8;
+	background-color: #057662;
 }
 
 .elementor-661 .elementor-element.elementor-element-14b0dc2 .elementor-button:hover svg,
@@ -359,14 +359,14 @@
 	font-weight: 500;
 	background-color: #61CE7000;
 	border-style: solid;
-	border-color: #00A8A8;
+	border-color: #057662;
 	border-radius: 035px 035px 035px 035px;
 }
 
 .elementor-661 .elementor-element.elementor-element-0ddb383 .elementor-button:hover,
 .elementor-661 .elementor-element.elementor-element-0ddb383 .elementor-button:focus {
 	color: #FFFFFF;
-	background-color: #00A8A8;
+	background-color: #057662;
 }
 
 .elementor-661 .elementor-element.elementor-element-0ddb383 .elementor-button:hover svg,

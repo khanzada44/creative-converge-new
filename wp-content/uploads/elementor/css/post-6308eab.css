@@ -2191,7 +2191,7 @@ body.rtl .elementor-630 .elementor-element.elementor-element-cc71e87 {
 
 .elementor-630 .elementor-element.elementor-element-444dd97:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
 .elementor-630 .elementor-element.elementor-element-444dd97>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-color: #080A12;
+    background-color: white;
 }
 
 .elementor-630 .elementor-element.elementor-element-444dd97:hover>.elementor-element-populated {
@@ -2213,14 +2213,14 @@ body.rtl .elementor-630 .elementor-element.elementor-element-cc71e87 {
 }
 
 .elementor-630 .elementor-element.elementor-element-74b9823 .elementor-heading-title {
-    color: #FFFFFF;
+    color: black;
     font-family: "Poppins", Sans-serif;
     font-size: 21px;
     font-weight: 500;
 }
 
 .elementor-630 .elementor-element.elementor-element-f401478 .elementor-heading-title {
-    color: #FFFFFF;
+    color: black;
     font-family: "Mulish", Sans-serif;
     font-size: 22px;
     font-weight: 700;
@@ -2232,7 +2232,7 @@ body.rtl .elementor-630 .elementor-element.elementor-element-cc71e87 {
 }
 
 .elementor-630 .elementor-element.elementor-element-78e8f1f .elementor-heading-title {
-    color: #FFFFFF;
+    color: black;
     font-family: "Mulish", Sans-serif;
     font-size: 65px;
     font-weight: 400;
@@ -2244,7 +2244,7 @@ body.rtl .elementor-630 .elementor-element.elementor-element-cc71e87 {
 }
 
 .elementor-630 .elementor-element.elementor-element-ab89da4 .elementor-heading-title {
-    color: #FFFFFF;
+    color: black;
     font-family: "Mulish", Sans-serif;
     font-size: 20px;
     font-weight: 700;
@@ -2260,7 +2260,7 @@ body.rtl .elementor-630 .elementor-element.elementor-element-cc71e87 {
 }
 
 .elementor-630 .elementor-element.elementor-element-dd0e6e1 .elementor-heading-title {
-    color: #FFFFFF;
+    color: black;
     font-family: "Mulish", Sans-serif;
     font-size: 18px;
     font-weight: 400;
@@ -2318,7 +2318,7 @@ body:not(.rtl) .elementor-630 .elementor-element.elementor-element-11b5aa5 .elem
 }
 
 .elementor-630 .elementor-element.elementor-element-11b5aa5 .elementor-icon-list-text {
-    color: #FFFFFF;
+    color: black;
     transition: color 0.3s;
 }
 
@@ -2343,7 +2343,7 @@ body:not(.rtl) .elementor-630 .elementor-element.elementor-element-11b5aa5 .elem
 
 .elementor-630 .elementor-element.elementor-element-b002868:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
 .elementor-630 .elementor-element.elementor-element-b002868>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-color: #080A12;
+    background-color: white;
 }
 
 .elementor-630 .elementor-element.elementor-element-b002868:hover>.elementor-element-populated {
@@ -2365,14 +2365,14 @@ body:not(.rtl) .elementor-630 .elementor-element.elementor-element-11b5aa5 .elem
 }
 
 .elementor-630 .elementor-element.elementor-element-6387b66 .elementor-heading-title {
-    color: #FFFFFF;
+    color: #000000;
     font-family: "Poppins", Sans-serif;
     font-size: 21px;
     font-weight: 500;
 }
 
 .elementor-630 .elementor-element.elementor-element-96976c8 .elementor-heading-title {
-    color: #FFFFFF;
+    color: #000000;
     font-family: "Mulish", Sans-serif;
     font-size: 22px;
     font-weight: 700;
@@ -2384,7 +2384,7 @@ body:not(.rtl) .elementor-630 .elementor-element.elementor-element-11b5aa5 .elem
 }
 
 .elementor-630 .elementor-element.elementor-element-ac1c56b .elementor-heading-title {
-    color: #FFFFFF;
+    color: #000000;
     font-family: "Mulish", Sans-serif;
     font-size: 65px;
     font-weight: 400;
@@ -2396,7 +2396,7 @@ body:not(.rtl) .elementor-630 .elementor-element.elementor-element-11b5aa5 .elem
 }
 
 .elementor-630 .elementor-element.elementor-element-88893b6 .elementor-heading-title {
-    color: #FFFFFF;
+   color: #000000;
     font-family: "Mulish", Sans-serif;
     font-size: 20px;
     font-weight: 700;
@@ -2408,7 +2408,7 @@ body:not(.rtl) .elementor-630 .elementor-element.elementor-element-11b5aa5 .elem
 }
 
 .elementor-630 .elementor-element.elementor-element-f99dddb .elementor-heading-title {
-    color: #FFFFFF;
+    color: #000000;
     font-family: "Mulish", Sans-serif;
     font-size: 22px;
     font-weight: 700;
@@ -2424,7 +2424,7 @@ body:not(.rtl) .elementor-630 .elementor-element.elementor-element-11b5aa5 .elem
 }
 
 .elementor-630 .elementor-element.elementor-element-c702816 .elementor-heading-title {
-    color: #FFFFFF;
+    color: #000000;
     font-family: "Mulish", Sans-serif;
     font-size: 18px;
     font-weight: 400;
@@ -2482,7 +2482,7 @@ body:not(.rtl) .elementor-630 .elementor-element.elementor-element-49f343f .elem
 }
 
 .elementor-630 .elementor-element.elementor-element-49f343f .elementor-icon-list-text {
-    color: #FFFFFF;
+    color: #000000;
     transition: color 0.3s;
 }
 
@@ -2507,12 +2507,12 @@ body:not(.rtl) .elementor-630 .elementor-element.elementor-element-49f343f .elem
 
 .elementor-630 .elementor-element.elementor-element-c56eb4b:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
 .elementor-630 .elementor-element.elementor-element-c56eb4b>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-color: #080A12;
+    background-color: white;
 }
 
 .elementor-630 .elementor-element.elementor-element-c56eb4b:hover>.elementor-element-populated {
     background-color: transparent;
-    background-image: linear-gradient(180deg, #00A8A8 40%, #191C26 32%);
+    background-image: linear-gradient(180deg, #00A8A8 40%, #fcfcfc 32%);
 }
 
 .elementor-630 .elementor-element.elementor-element-c56eb4b>.elementor-element-populated {
